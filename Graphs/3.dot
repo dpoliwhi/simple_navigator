@@ -1,0 +1,8 @@
+graph ourgraph {
+	1 -- 2 [label = "11"];
+	1 -- 3 [label = "9"];
+	2 -- 4 [label = "5"];
+	2 -- 5 [label = "8"];
+	3 -- 5 [label = "2"];
+	4 -- 5 [label = "1"];
+}

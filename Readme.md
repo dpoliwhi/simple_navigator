@@ -31,7 +31,7 @@
 
 
 <p align="center">
-<img src="screenshots/3.JPG" alt="drawing" width="400"/>
+<img src="screenshots/3.jpg" alt="drawing" width="400"/>
 </p>
 
 ********* 
